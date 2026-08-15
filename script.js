@@ -1252,7 +1252,7 @@ function render(){
       ${STATE.view==='dashboard'?viewDashboard():''}
       ${STATE.view==='faq'?viewFaq():''}
     </main>
-    <footer>${t('siteName')} · ${new Date().getFullYear()} · Community Engagement Project — Assisting Citizens in Using Government Digital Portals</footer>
+    <footer>${t('siteName')} · ${new Date().getFullYear()} · Community Engagement Project — Digital Guides for Public Welfare Schemes</footer>
     ${authModal()}
   `;
   document.getElementById('app').innerHTML = html;
