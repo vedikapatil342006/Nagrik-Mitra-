@@ -476,15 +476,7 @@ const SCHEMES = [
    link:'https://licindia.in', updated:'2026-05-21',
    crit:{ageMin:60,ageMax:120,incomeMax:100000000,occ:['any'],gender:'any'}},
 
-  {id:'sanjay-gandhi-niradhar', name:'Sanjay Gandhi Niradhar Anudan Yojana', nameMr:'संजय गांधी निराधार अनुदान योजना', category:'senior', level:'Maharashtra', state:'Maharashtra',
-   objective:'Monthly financial assistance to destitute persons in Maharashtra including the elderly, disabled, widows and orphans without means of support.',
-   objectiveMr:'महाराष्ट्रातील निराधार व्यक्ती — ज्येष्ठ नागरिक, दिव्यांग, विधवा व अनाथ — यांना मासिक आर्थिक सहाय्य.',
-   benefits:['₹1,000-₹1,500 monthly financial assistance (varies by category and household size)'],
-   eligibility:'Maharashtra domicile destitute individual (elderly/disabled/widow/orphan) with no adequate means of support, income below prescribed limit.',
-   documents:['Aadhaar Card','Domicile certificate','Income certificate','Relevant category proof (age/disability/widow certificate)'],
-   process:['Apply at the Tehsil/Taluka office or via aaplesarkar.mahaonline.gov.in','Submit
-
-  {id:'free-coaching', name:'Free Coaching Scheme for SC/ST/OBC/Minority Students', nameMr:'एससी/एसटी/ओबीसी/अल्पसंख्याक विद्यार्थ्यांसाठी मोफत प्रशिक्षण योजना', category:'education', level:'Central', state:'All India',
+   {id:'free-coaching', name:'Free Coaching Scheme for SC/ST/OBC/Minority Students', nameMr:'एससी/एसटी/ओबीसी/अल्पसंख्याक विद्यार्थ्यांसाठी मोफत प्रशिक्षण योजना', category:'education', level:'Central', state:'All India',
    objective:'Free coaching for competitive/entrance exams (UPSC, banking, engineering, medical, etc.) for students from SC, ST, OBC and minority communities.',
    objectiveMr:'एससी, एसटी, ओबीसी व अल्पसंख्याक विद्यार्थ्यांना स्पर्धा परीक्षांसाठी (यूपीएससी, बँकिंग, अभियांत्रिकी, वैद्यकीय इ.) मोफत प्रशिक्षण.',
    benefits:['Free coaching at empanelled centres','Stipend to cover boarding/lodging for outstation candidates'],
