@@ -634,14 +634,15 @@ const SCHEMES = [
    link:'https://www.nikshay.in', updated:'2026-04-07',
    crit:{ageMin:0,ageMax:120,incomeMax:100000000,occ:['any'],gender:'any'}},
 
-  {id:'mission-indradhanush', name:'Mission Indradhanush (Immunization)', nameMr:'मिशन इंद्रधनुष्य (लसीकरण)', category:'health', level:'Central', state:'All India',
+    {id:'mission-indradhanush', name:'Mission Indradhanush (Immunization)', nameMr:'मिशन इंद्रधनुष्य (लसीकरण)', category:'health', level:'Central', state:'All India',
    objective:'Ensure full immunization coverage for all children under 2 years and pregnant women against vaccine-preventable diseases.',
    objectiveMr:'2 वर्षांखालील सर्व बालके व गरोदर महिलांना लसीद्वारे टाळता येण्याजोग्या आजारांविरुद्ध पूर्ण लसीकरण सुनिश्चित करणे.',
    benefits:['Free vaccination against diseases like diphtheria, pertussis, tetanus, polio, measles, hepatitis B and more'],
    eligibility:'All children under 2 years of age and pregnant women; free for all, no income criteria.',
    documents:['MCP card/immunization card','Aadhaar Card (helpful, not mandatory)'],
    process:['Visit nearest Anganwadi Centre/government health facility on scheduled immunization days','Get the child/pregnant woman registered if not already','Vaccines administered as per the National Immunization Schedule','Immunization card updated after each dose'],
-   li
+   link:'https://www.missionindradhanush.in/',  updated:'2026-08-15',
+   crit:{ageMin:0,ageMax:100,incomeMax:100000000,occ:['any'],gender:'any'}},
   ];
 
 
