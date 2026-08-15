@@ -12,6 +12,8 @@ const CATEGORIES = [
   {id:'financial', ic:'💰', en:'Financial Aid', mr:'आर्थिक मदत', hi:'वित्तीय सहायता'},
 ];
 
+
+/* ============================= SCHEMES ============================= */
 const SCHEMES = [
   {id:'pmkisan', name:'PM-KISAN', nameMr:'पीएम-किसान', category:'farmers', level:'Central', state:'All India',
    objective:'Income support of ₹6,000/year to landholding farmer families, paid in three instalments.',
@@ -304,6 +306,8 @@ const SCHEMES = [
    link:'https://nhm.gov.in/index1.php?lang=1&level=3&sublinkid=841', updated:'2026-05-03
 ];
 
+
+/* ============================= SERVICES ============================= */
 const SERVICES = [
   {id:'aadhaar', ic:'🪪', name:'Aadhaar Card', nameMr:'आधार कार्ड',
    desc:'Unique 12-digit identity number for Indian residents.',
