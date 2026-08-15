@@ -122,11 +122,7 @@ const SCHEMES = [
    process:['Register at nearest Anganwadi Centre / Health facility','Fill Form 1-A, 1-B, 1-C at respective stages','Submit documents','Instalments credited via DBT'],
    link:'https://pmmvy.wcd.gov.in', updated:'2026-06-11',
    crit:{ageMin:18,ageMax:45,incomeMax:100000000,occ:['any'],gender:'female'}},
-/* =========================================================================
-   50 ADDITIONAL SCHEMES — paste these INSIDE the SCHEMES array in script.js
-   Location: right after the "matru" scheme entry, BEFORE the closing "];"
-   (around line 133-134 in your script.js)
-   ========================================================================= */
+
 
   {id:'nmmss', name:'National Means-cum-Merit Scholarship Scheme', nameMr:'राष्ट्रीय साधनसंपन्न-गुणवत्ता शिष्यवृत्ती योजना', category:'education', level:'Central', state:'All India',
    objective:'Scholarship to meritorious students of economically weaker sections to reduce dropout at Class 8 to 12 level.',
