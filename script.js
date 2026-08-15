@@ -642,7 +642,7 @@ const SCHEMES = [
    documents:['MCP card/immunization card','Aadhaar Card (helpful, not mandatory)'],
    process:['Visit nearest Anganwadi Centre/government health facility on scheduled immunization days','Get the child/pregnant woman registered if not already','Vaccines administered as per the National Immunization Schedule','Immunization card updated after each dose'],
    link:'https://www.missionindradhanush.in/',  updated:'2026-08-15',
-   crit:{ageMin:0,ageMax:100,incomeMax:100000000,occ:['any'],gender:'any'}},
+   crit:{ageMin:0,ageMax:45,incomeMax:100000000,occ:['any'],gender:'any'}},
   ];
 
 
