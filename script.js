@@ -697,7 +697,7 @@ const SERVICES = [
 
 /* ============================= TRANSLATIONS ============================= */
 const T = {
-  en:{siteName:'Nagrik Sahayak', tagline:'Find schemes. Understand portals. Apply with confidence.',
+  en:{siteName:'NagrikMitra', tagline:'Find schemes. Understand portals. Apply with confidence.',
     home:'Home', schemes:'Schemes', services:'Services', findForMe:'Find For Me', compare:'Compare', dashboard:'Dashboard', faq:'FAQ',
     login:'Login', logout:'Logout', signup:'Sign Up', welcome:'Welcome',
     heroTitle:'Your guide to Government Schemes & Digital Portals',
@@ -730,7 +730,7 @@ const T = {
     needAccount:'New here? Sign up', matchWarn:'Some criteria may need manual verification', matchGood:'Matches your profile well',
     close:'Close', ageGroup:'Age', incomeLimit:'Income limit', level:'Level', schemeName:'Scheme',
   },
-  mr:{siteName:'नागरिक सहाय्यक', tagline:'योजना शोधा. पोर्टल समजून घ्या. आत्मविश्वासाने अर्ज करा.',
+  mr:{siteName:'नागरिकमित्र', tagline:'योजना शोधा. पोर्टल समजून घ्या. आत्मविश्वासाने अर्ज करा.',
     home:'मुख्यपृष्ठ', schemes:'योजना', services:'सेवा', findForMe:'माझ्यासाठी शोधा', compare:'तुलना', dashboard:'डॅशबोर्ड', faq:'प्रश्न',
     login:'लॉगिन', logout:'लॉगआऊट', signup:'नोंदणी', welcome:'स्वागत आहे',
     heroTitle:'सरकारी योजना व डिजिटल पोर्टलसाठी तुमचा मार्गदर्शक',
@@ -763,7 +763,7 @@ const T = {
     needAccount:'नवीन आहात? नोंदणी करा', matchWarn:'काही निकष हाताने पडताळावे लागतील', matchGood:'तुमच्या प्रोफाइलशी चांगले जुळते',
     close:'बंद करा', ageGroup:'वय', incomeLimit:'उत्पन्न मर्यादा', level:'स्तर', schemeName:'योजना',
   },
-  hi:{siteName:'नागरिक सहायक', tagline:'योजनाएं खोजें। पोर्टल समझें। भरोसे के साथ आवेदन करें।',
+  mr:{siteName:'नागरिकमित्र', tagline:'योजनाएं खोजें। पोर्टल समझें। भरोसे के साथ आवेदन करें।',
     home:'होम', schemes:'योजनाएं', services:'सेवाएं', findForMe:'मेरे लिए खोजें', compare:'तुलना करें', dashboard:'डैशबोर्ड', faq:'सवाल',
     login:'लॉगिन', logout:'लॉगआउट', signup:'साइन अप', welcome:'स्वागत है',
     heroTitle:'सरकारी योजनाओं और डिजिटल पोर्टल के लिए आपका मार्गदर्शक',
