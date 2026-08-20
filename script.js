@@ -1223,7 +1223,7 @@ function render(){
   const html = `
     <header class="topbar">
       <div class="brand" onclick="goto('home')">
-        <div class="mark"><span>🇮🇳</span></div>
+         <img src="nagrik-mitra_logo.jpg" class="site-logo" alt="NagrikMitra">
         <div class="brand-text"><div class="name">${t('siteName')}</div><div class="tag">${t('tagline')}</div></div>
       </div>
       <div class="top-actions">
